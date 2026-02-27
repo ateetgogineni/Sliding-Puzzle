@@ -1,0 +1,16 @@
+﻿<Solution>
+  <Project Path="DTT.EditorUtilities.Editor.csproj" />
+  <Project Path="DTT.MinigameAdvertisements.Runtime.csproj" />
+  <Project Path="DTT.RuntimeUtilities.Runtime.csproj" />
+  <Project Path="DTT.MinigameBase.Editor.csproj" />
+  <Project Path="DTT.PublishingTools.Editor.csproj" />
+  <Project Path="DTT.DTTween.Runtime.csproj" />
+  <Project Path="DTT.MinigameBase.Runtime.csproj" />
+  <Project Path="DTT.MiniGame.SlidingPuzzle.Runtime.csproj" />
+  <Project Path="DTT.RuntimeUtilities.Demo.csproj" />
+  <Project Path="DTT.EditorUtilities.Demo.csproj" />
+  <Project Path="DTT.MiniGame.SlidingPuzzle.Demo.csproj" />
+  <Project Path="DTT.MiniGame.SlidePuzzle.Editor.csproj" />
+  <Project Path="DTT.MinigameAdvertisements.Editor.csproj" />
+  <Project Path="DTT.PublishingTools.Runtime.csproj" />
+</Solution>
